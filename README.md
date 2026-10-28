@@ -15,6 +15,13 @@ Desarrollador web con experiencia profesional en desarrollo full stack, particip
 
 ## 🚀 Proyectos
 
+🎓 Plataforma de Aprendizaje Online
+
+Desarrollo de una plataforma de formación online con gestión de cursos y lecciones, control de acceso por roles y seguimiento del progreso de los alumnos.
+
+Tecnologías: Java · Spring Boot · Angular · TypeScript · Microsoft SQL Server
+
+
 Próximamente, más proyectos.
 
 <!-- Aquí presentaré algunos de mis proyectos y las tecnologías utilizadas en ellos. -->
