@@ -1,16 +1,20 @@
-## Hi there 👋
+# ¡Hola! Soy Asier Ruiz 👋
 
-<!--
-**asierruiz29/asierruiz29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desarrollador Web Full Stack | Java · Spring Boot · Angular · TypeScript**
 
-Here are some ideas to get you started:
+Desarrollador web con experiencia profesional en desarrollo full stack, participando tanto en el desarrollo backend como frontend. He trabajado con Java y Spring Boot, Angular y bases de datos relacionales, además de colaborar en el análisis y la resolución de problemas técnico-funcionales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y herramientas
+
+- **Backend:** Java, Spring Boot.
+- **Frontend:** Angular, TypeScript, JavaScript, HTML5, CSS3.
+- **Frameworks y componentes UI:** Angular Material, Bootstrap.
+- **Bases de datos:** Oracle Database, Microsoft SQL Server, PostgreSQL.
+- **Control de versiones y herramientas:** GitHub, TortoiseSVN.
+
+## 🚀 Proyectos
+
+<!-- Aquí presentaré algunos de mis proyectos y las tecnologías utilizadas en ellos. -->
+
+
+
