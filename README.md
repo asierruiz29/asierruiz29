@@ -4,13 +4,14 @@
 
 Desarrollador web con experiencia profesional en desarrollo full stack, participando tanto en el desarrollo backend como frontend. He trabajado con Java y Spring Boot, Angular y bases de datos relacionales, además de colaborar en el análisis y la resolución de problemas técnico-funcionales.
 
+<!--
 ## 🛠️ Tecnologías y herramientas
 
 - **Backend:** Java, Spring Boot.
 - **Frontend:** Angular, TypeScript, JavaScript, HTML5, CSS3.
 - **Frameworks y componentes UI:** Angular Material, Bootstrap.
 - **Bases de datos:** Oracle Database, Microsoft SQL Server, PostgreSQL.
-- **Control de versiones y herramientas:** GitHub, TortoiseSVN.
+- **Control de versiones y herramientas:** GitHub, TortoiseSVN.-->
 
 ## 🚀 Proyectos
 
