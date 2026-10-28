@@ -15,6 +15,8 @@ Desarrollador web con experiencia profesional en desarrollo full stack, particip
 
 ## 🚀 Proyectos
 
+Próximamente, más proyectos.
+
 <!-- Aquí presentaré algunos de mis proyectos y las tecnologías utilizadas en ellos. -->
 
 
