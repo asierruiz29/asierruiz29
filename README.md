@@ -15,7 +15,7 @@ Desarrollador web con experiencia profesional en desarrollo full stack, particip
 
 ## 🚀 Proyectos
 
-### 🎓 Proyecto 01 · Plataforma de Aprendizaje Online
+### 🎓 [Proyecto 01 ·  Plataforma de Aprendizaje Online](https://github.com/asierruiz29/Plataforma-de-aprendizaje)
 
 Desarrollo de una plataforma de formación y aprendizaje con gestión de cursos y lecciones, control de acceso por roles y seguimiento del progreso de los alumnos.
 
